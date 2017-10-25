@@ -1,0 +1,25 @@
+{
+  "name": "moj_nowy_projekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrzemekG89/moj_nowy_projekt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrzemekG89/moj_nowy_projekt/issues"
+  },
+  "homepage": "https://github.com/PrzemekG89/moj_nowy_projekt#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
